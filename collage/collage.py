@@ -12,5 +12,5 @@ elif a>=0:
 else:
     print("-ve number")
 # logical i>and ii>or iii> not  are the logical oprater to use in this code.
-    
+print("collage work in the collage is good for health")
     
